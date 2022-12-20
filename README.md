@@ -1,6 +1,6 @@
 # Система учёта, контроля остатков и поиска товара на складе
 
-Исследование в рамках изучения [методологии кибериммунной разработки](https://github.com/sergey-sobolev/cyberimmune-systems/wiki/)_
+Исследование в рамках изучения [методологии кибериммунной разработки](https://github.com/sergey-sobolev/cyberimmune-systems/wiki/).
 
 Пример [п. 7.1.](https://github.com/sergey-sobolev/cyberimmune-systems/wiki/%D0%98%D0%B4%D0%B5%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2) выбран в качестве наиболее наглядного и доступного для понимания с целью повышения эффективности постижения [методологии кибериммунной разработки](https://github.com/sergey-sobolev/cyberimmune-systems/wiki/).
 
